@@ -184,3 +184,5 @@ console.log(student.studentInfo());
 // 		text = 'weekday';
 // }
 // console.log(text);
+
+//addNumbers(num1, num2)
