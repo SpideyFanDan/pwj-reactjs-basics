@@ -186,3 +186,20 @@ console.log(student.studentInfo());
 // console.log(text);
 
 //addNumbers(num1, num2)
+
+//DOM Document Object Model
+//view is what the user sees, JS accesses attributes and modifies the view.
+//console.dir(getElementById) will give all the events on a particular element.
+// let students = `[
+// 			{
+// 			"name": "Qazi",
+// 			"age": 25,
+// 			"height": 170
+// 			},
+// 			{
+// 			"name": "Rafeh",
+// 			"age": 28,
+// 			"height": 180
+// 			}
+// 			]`;
+// console.log(JSON.parse(students));
